@@ -1,0 +1,18 @@
+{
+  "name": "wouter_test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1",
+    "webpack": "^5.9.0",
+    "wouter": "^2.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
